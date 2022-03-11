@@ -19,8 +19,8 @@ const DOT_SIZE = 10;
 const ALL_DOTS = 900;
 const MAX_RAND = 29;
 const DELAY = 140;
-const C_HEIGHT = 300;
-const C_WIDTH = 300;
+const C_HEIGHT = 900;
+const C_WIDTH = 900;
 
 const LEFT_KEY = 37;
 const RIGHT_KEY = 39;
